@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Javascript, React, Typescript
 - 💞️ I’m looking to collaborate on Web Development, QA, Java and Python development
 - 📫 How to reach me brenoalex91@gmail.com
-- English is not my native language, so forgive some slights mistakes
+- English is not my native language, so forgive some slight mistakes
 
 <!---
 brenoalex/brenoalex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
